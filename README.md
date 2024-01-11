@@ -1,6 +1,6 @@
 # Tesla Financial Chatbot
 
-[Project Link](http://example.com)
+[Project Link](https://gpt-app-sujal.vercel.app/)
 
 This project is a conversational AI web application built using Next.js that can discuss and analyze Tesla's financial statements and reports.
 
