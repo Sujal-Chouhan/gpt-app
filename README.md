@@ -1,6 +1,6 @@
 # Tesla Financial Chatbot
 
-[Link Text]([Link Text](http://example.com))
+[Project Link](http://example.com)
 
 This project is a conversational AI web application built using Next.js that can discuss and analyze Tesla's financial statements and reports.
 
