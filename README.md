@@ -14,3 +14,8 @@ The application features a customized GPT-3.5 chatbot that has been trained on T
 - Chat history and data stored in MongoDB database
 - Pinecone as Vector Database
 - Deployed on Vercel for fast, global delivery
+
+## Sample Questions
+- What are Tesla's largest operating expenses? Explain each expense in detail.
+- How did COVID-19 affect Tesla?
+- What was Tesla's gross profit margin in 2022? How does it compare to the previous years?
